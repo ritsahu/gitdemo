@@ -15,4 +15,16 @@ public class AppinumTest {
 		System.out.println("IOSApps");
 	}
 
+	@Test
+	public void IOSApps2() {
+		
+		System.out.println("IOSApps2");
+	}
+	@Test
+	public void IOSApps3() {
+		
+		System.out.println("IOSApps3");
+	}
+
+
 }
